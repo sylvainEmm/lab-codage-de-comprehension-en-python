@@ -4,8 +4,9 @@
 @author: CollegeBoreal
 """
 
-def ???:
-  return ???
+def exo_02():
+  b="bonjour"
+  return b
 
 def main():
   print( exo_02() )
