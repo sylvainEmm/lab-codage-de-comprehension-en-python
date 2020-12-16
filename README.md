@@ -20,3 +20,7 @@ Apprentissage du language Python par des exercices
 | :two: | [:bookmark:](02/programme.py) | :tada: | 2020/12/16 15:20:25 |
 | :three: | [:bookmark:](03/programme.py) | :x: | 2020/12/16 15:20:26 |
 | :four: | [:bookmark:](04/programme.py) | :x: | 2020/12/16 15:20:26 |
+| :one: | [:bookmark:](01/programme.py) | :tada: | 2020/12/16 16:03:33 |
+| :two: | [:bookmark:](02/programme.py) | :tada: | 2020/12/16 16:03:33 |
+| :three: | [:bookmark:](03/programme.py) | :x: | 2020/12/16 16:03:33 |
+| :four: | [:bookmark:](04/programme.py) | :x: | 2020/12/16 16:03:33 |
